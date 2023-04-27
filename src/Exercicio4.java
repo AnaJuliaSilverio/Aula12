@@ -1,5 +1,8 @@
+
+
 public class Exercicio4 {
     public static void main(String[] args) {
+
         int n=10;
         System.out.println("USANDO FOR");
         for (int i = 1; i < n; i++) {
@@ -24,6 +27,7 @@ public class Exercicio4 {
             }
             contDoWhile++;
         }while (contDoWhile<n);
+
 
     }
 }
